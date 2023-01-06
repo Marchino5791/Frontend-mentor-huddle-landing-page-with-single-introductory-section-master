@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Huddle landing page with single introductory section screenshot]()
+![Huddle landing page with single introductory section screenshot](https://github.com/Marchino5791/Frontend-mentor-huddle-landing-page-with-single-introductory-section-master/blob/main/Screenshot%202023-01-06%2019.50.37.png)
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://github.com/Marchino5791/Frontend-mentor-huddle-landing-page-with-single-introductory-section-master](https://github.com/Marchino5791/Frontend-mentor-huddle-landing-page-with-single-introductory-section-master)
 - Live Site URL: []()
 
 ## My process
